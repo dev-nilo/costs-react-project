@@ -23,4 +23,5 @@
 
 .item a:hover {
     color: #FFBB33;
+    transition: .5s;
 }
