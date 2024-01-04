@@ -15,11 +15,11 @@
 
 .socialList li {
     margin: 0 1em;
+    transition: ease-in-out .5s;
 }
 
 .socialList li:hover {
     color: #FFBB33;
-    transition: ease-in-out .5s;
 }
 
 .socialList svg {
@@ -29,9 +29,9 @@
 
 p span {
     font-weight: 700;
+    transition: ease-in-out .5s;
 }
 
 p span:hover {
     color: #FFBB33;
-    transition: ease-in-out .5s;
 }
